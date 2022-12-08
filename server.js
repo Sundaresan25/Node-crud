@@ -10,8 +10,8 @@ dotenv.config();
 const EmployeeRoute = require("./routes/employee");
 const AuthRoute = require("./routes/auth");
 
-const uri =
-  "mongodb+srv://Sundar:Sundar123@cluster0.f9qmyrj.mongodb.net/?retryWrites=true&w=majority";
+const uri =""
+ 
 
 // async function connect() {
 //   try {
